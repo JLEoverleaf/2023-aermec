@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit test / coverage reports
+.pytest_cache/
+
+# Builder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE related
+.vscode
+
+# Temp file
+*.xlsx#
